@@ -14,21 +14,21 @@ Primera parte de la página web:
 
 Experiencia:
 
-(https://github.com/HernandezAlma/Portafolio/assets/150403661/3dc1a75e-1268-4a08-a28d-e39755d4bee5)
+![Experiencia](https://github.com/HernandezAlma/Portafolio/assets/150403661/3dc1a75e-1268-4a08-a28d-e39755d4bee5)
 
 Proyectos:
 
-(https://github.com/HernandezAlma/Portafolio/assets/150403661/3f716fb7-ec53-49f5-b25b-6a8e9bf8dbce)
+![Proyectos](https://github.com/HernandezAlma/Portafolio/assets/150403661/3f716fb7-ec53-49f5-b25b-6a8e9bf8dbce)
 
 
 Testimonios:
 
-(https://github.com/HernandezAlma/Portafolio/assets/150403661/464735e5-d94e-4cb5-b388-d13131836198)
+![Testimonios](https://github.com/HernandezAlma/Portafolio/assets/150403661/464735e5-d94e-4cb5-b388-d13131836198)
 
 
 Contacto:
 
-(https://github.com/HernandezAlma/Portafolio/assets/150403661/0d02e4b9-909c-4a6f-90dc-8d41ae85b01e)
+![Contacto](https://github.com/HernandezAlma/Portafolio/assets/150403661/0d02e4b9-909c-4a6f-90dc-8d41ae85b01e)
 
 
 ## Tecnologías
