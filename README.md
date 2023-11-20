@@ -14,7 +14,8 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](https://github.com/HernandezAlma/Portafolio/assets/150403661/3dc1a75e-1268-4a08-a28d-e39755d4bee5)
+)
 
 Proyectos:
 
