@@ -10,24 +10,26 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](https://github.com/HernandezAlma/Portafolio/assets/150403661/a9af75dd-fa3a-4b16-bc55-4460e08c79a2)
 
 Experiencia:
 
 ![Experiencia](https://github.com/HernandezAlma/Portafolio/assets/150403661/3dc1a75e-1268-4a08-a28d-e39755d4bee5)
-)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos]![image](https://github.com/HernandezAlma/Portafolio/assets/150403661/3f716fb7-ec53-49f5-b25b-6a8e9bf8dbce)
+
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios]![image](https://github.com/HernandezAlma/Portafolio/assets/150403661/464735e5-d94e-4cb5-b388-d13131836198)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto]![image](https://github.com/HernandezAlma/Portafolio/assets/150403661/0d02e4b9-909c-4a6f-90dc-8d41ae85b01e)
+
 
 ## Tecnologías
 
